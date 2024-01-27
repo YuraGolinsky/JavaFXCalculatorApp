@@ -1,7 +1,9 @@
 # JavaFXCalculatorApp
 JavaFXCalculatorApp
 
-![image](https://github.com/YuraGolinsky/JavaFXCalculatorApp/assets/134283897/412a082c-e4c5-457b-962d-3e9c7d31efab)
+![image](https://github.com/YuraGolinsky/JavaFXCalculatorApp/assets/134283897/412a082c-e4c5-457b-962d-3e9c7d31efab)  ![image](https://github.com/YuraGolinsky/JavaFXCalculatorApp/assets/134283897/a01cf885-96b9-4e72-b981-7ba18217639f)
+
+
 
 Приложение JavaFX Calculator — это удобный и эффективный графический калькулятор, созданный на основе JavaFX, обеспечивающий удобство выполнения различных математических операций. Это приложение предназначено как для выполнения базовых арифметических вычислений, так и для более сложных математических задач, предлагая универсальный инструмент для пользователей всех уровней.
 
